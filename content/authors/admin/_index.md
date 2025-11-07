@@ -1,21 +1,22 @@
 ---
 title: Dr. Isha Bhallamudi
-role: Postdoctoral Fellow, Stanford University
+role: Postdoctoral Fellow, Digital Civil Society Lab, Stanford University
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Technology
+  - AI
   - Platforms
-  - Gender
-  - Work
+  - Future of Work
+  - Organizations & Management
+  - Society
+  - Wellbeing
   - Inequality
   - Development
   - Culture
-  - Majority Worlds
 social:
   - icon: envelope
     icon_pack: fas
-    link: isha.b at uci dot edu
+    link: b.isha.ravi at gmail dot com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/isha_bhallamudi
@@ -43,11 +44,15 @@ highlight_name: true
 ---
 Hi there!
 
-My name is Isha and I am a Postdoctoral Fellow at the Digital Civil Society Lab at Stanford University. I study how AI-mediated platforms shape work, social life, and wellbeing, with particular attention to gender, accessibility, inequality, development, and culture in Majority World contexts. I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, US and Sub-Saharan Africa. You can check out some of my projects [here](/#projects). 
+My name is Isha and I am a Postdoctoral Fellow at the Digital Civil Society Lab at Stanford University. I study the emerging impacts of AI models and platforms on the future of work, society, and wellbeing. I am passionate about improving user and worker experiences, and minimizing the harms caused by new technologies while maximizing their positive impacts. I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, USA, and Sub-Saharan Africa. You can check out some of my projects [here](/#projects). 
 
-After completing my PhD in Sociology from UC Irvine, I am currently working on a book based on my dissertation project, which examined the gender dynamics of platform work in India. Other ongoing projects record new forms of algorithmic management in beauty platforms, examine women's access to work in contemporary India, and analyze how Indian immigrant tech workers shape work cultures in Silicon Valley. I am deeply invested in applying historical-comparative and interdisciplinary perspectives to platform research, in order to assess and mitigate the growing harms of AI technologies.
+I hold a PhD in Sociology and an MA in Demographic Analysis from UC Irvine, and an Integrated MA in Development Studies from IIT Madras. I have worked at Google as a UX Research intern, and for UNICEF and UN Women on tech and development policy projects. I am an expert qualitative researcher and also proficient in a range of quantitative, participatory and mixed-methods approaches. I have research and project management experience in the academic, policy, organizing, development and tech sectors, and apply my strong insights in interdisciplinary and cross-sectoral ways.
 
-Going forward, I am looking for jobs that let me combine academic research with industry impact, and am open to non-traditional teams and organizations. Please get in touch if you have openings!
+My current (solo) projects analyze the impacts of new forms of algorithmic management in beauty platforms, examine women's pathways to work in the digital economy, and propose participatory frameworks for algorithmic accountability. In ongoing (and varied) collaborative projects, I am writing about the relationship between technology and labour, assessing the family-level cognitive and management burdens of incarceration, and reflecting on the role of female friendships in sense-making over the life course.
+
+I am currently looking for jobs that let me apply high-quality research to create real-world impact, and am open to non-traditional teams and organizations. Please get in touch if you have openings!
+
+I am always looking to discuss and share my research through podcasts, guest lectures, essays, and workshops - please don't hesitate to reach out with requests!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
