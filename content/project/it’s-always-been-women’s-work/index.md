@@ -1,5 +1,5 @@
 ---
-title: "PhD Project: AI-Mediated Work and the Future of Women's Work in India"
+title: "PhD Project: AI Platforms and the Future of Women's Work"
 subtitle: "Methods: Ethnography, Interviews, Focus Group
   Discussions, Observation"
 date: 2022-01-08T05:16:18.031Z
@@ -8,12 +8,12 @@ featured: false
 authors:
   - Isha Bhallamudi
 tags:
-  - Gig Work
   - AI
-  - Gender
-  - Urbanization
-  - Digital Labor
-  - India
+  - Gig Work
+  - Organizations
+  - Management Practices
+  - Accountability
+  - Social Wellbeing
 image:
   filename: ""
   focal_point: Smart
@@ -21,12 +21,6 @@ image:
 ---
 <!--StartFragment-->
 
-Ongoing Project: Tentative Description:
-
-At a global moment where there is a deep sense of excitement as well as anxiety over the rise of AI-mediated forms of work, my dissertation project looks at the experiences of women gig workers, engineers, managers and designers in Mumbai to address fundamental questions about women's employment experiences as well as the future of app-based work in India. Through a focus on tech work and women’s work, this project engages with women's accounts and analyses of their work lives and experiences, in their own words. I explore the findings across three thematic areas: technology and work rights; cities and social mobility; and gender and the body. This project is being carried out using a combination of informal conversations, formal interviews, ethnography, observation, and focus group discussions. 
-
-At an organizational level, I aim to examine whether the industry of platform work is systematically gendered, while paying attention to the ways in which it also celebrates and recognizes women's work, and how this shapes tech workers' experiences. At an individual and interactional level, I am interested in investigating women’s lived experiences of work and how the platformization of daily life shapes and reshapes social relations of gender and work in the city. 
-
-
+My dissertation project studied the emerging impacts of AI-mediated platforms, on workers, organizations, management practices, and society, through a mixed-methods ethnography with gig workers and platform managers in India. It focused on the case of beauty platforms, which employ a majority of women workers. I examined 1) women's pathways and barriers to work in the digital economy, 2) new forms of algorithmic management in platform organizations, and 3) the social reproduction of inequalities via platform work, among other themes. The findings highlight emerging harms of AI-mediated systems, the need for stakeholder-focused AI explainability and accountability mechanisms, and effective solutions to address women's discontinuous and low participation in secure forms of work. Since the project, I have been working with collectives of women gig workers to address some of the inequalities around platformized work, and tracking the emerging policy landscapes around AI-mediated work.
 
 <!--EndFragment-->
