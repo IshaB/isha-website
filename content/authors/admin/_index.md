@@ -1,7 +1,6 @@
 ---
 title: Dr. Isha Bhallamudi
-role: Postdoctoral Fellow
-Digital Civil Society Lab | Dept. of Communication, Stanford University
+role: Postdoctoral Fellow, Digital Civil Society Lab | Dept. of Communication, Stanford University
 avatar_filename: avatar.jpg
 bio: ""
 interests:
