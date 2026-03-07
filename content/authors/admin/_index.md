@@ -1,6 +1,7 @@
 ---
 title: Dr. Isha Bhallamudi
-role: Postdoctoral Fellow, Digital Civil Society Lab | Dept. of Communication, Stanford University
+role: Postdoctoral Fellow
+Digital Civil Society Lab | Dept. of Communication, Stanford University
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -42,6 +43,8 @@ highlight_name: true
 Hi there!
 
 My name is Isha and I am a recent Postdoctoral Fellow from the Digital Civil Society Lab and the Department of Communication at Stanford University. I am interested in studying the emerging impacts of AI technologies and infrastructures on our economic, social, and environmental futures. 
+
+***
 
 Updates:
 
