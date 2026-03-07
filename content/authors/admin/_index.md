@@ -1,18 +1,15 @@
 ---
 title: Dr. Isha Bhallamudi
-role: Postdoctoral Fellow, Digital Civil Society Lab, Stanford University
+role: Postdoctoral Fellow, Digital Civil Society Lab | Dept. of Communication, Stanford University
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - AI
-  - Platforms
-  - Future of Work
-  - Organizations & Management
-  - Society
-  - Wellbeing
-  - Inequality
-  - Development
-  - Culture
+  - AI-mediated Futures of Work
+  - Professions and Organizations
+  - Algorithmic Management
+  - Gender Inequalities
+  - Social Wellbeing
+  - Development in Majority Worlds/Global South
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,15 +41,21 @@ highlight_name: true
 ---
 Hi there!
 
-My name is Isha and I am a Postdoctoral Fellow at the Digital Civil Society Lab at Stanford University. I study the emerging impacts of AI models and platforms on the future of work, society, and wellbeing. I am passionate about improving user and worker experiences, and minimizing the harms caused by new technologies while maximizing their positive impacts. I have worked on a range of projects around these topics and others, with a variety of collaborators and teams across South Asia, UK, USA, and Sub-Saharan Africa. You can check out some of my projects [here](/#projects). 
+My name is Isha and I am a recent Postdoctoral Fellow from the Digital Civil Society Lab and the Department of Communication at Stanford University. I am interested in studying the emerging impacts of AI technologies and infrastructures on our economic, social, and environmental futures. I am currently developing a new project that will examine upcoming AI infrastructures along India's coastline between 2026-30 - if your organization or department is interested in hosting me as an affiliate researcher, please get in touch (b.isha.ravi at gmail.com). 
 
-I hold a PhD in Sociology and an MA in Demographic Analysis from UC Irvine, and an Integrated MA in Development Studies from IIT Madras. I have worked at Google as a UX Research intern, and for UNICEF and UN Women on tech and development policy projects. I am an expert qualitative researcher and also proficient in a range of quantitative, participatory and mixed-methods approaches. I have research and project management experience in the academic, policy, organizing, development and tech sectors, and apply my strong insights in interdisciplinary and cross-sectoral ways.
+I am an expert researcher with experience spanning academia, policy, advocacy, organizing, and industry. I use a range of (qualitative, quantitave, and participatory) methodologies to investigate fundamental research questions, analyze policy developments, offer community-centered support, and conduct user research for products and services. I take a people-centered approach in my work, and my strong interdisciplinary background lets me apply ideas and insights from a variety of fields to solve problems. 
 
-My current (solo) projects analyze the impacts of new forms of algorithmic management in beauty platforms, examine women's pathways to work in the digital economy, and propose participatory frameworks for algorithmic accountability. In ongoing (and varied) collaborative projects, I am writing about the relationship between technology and labour, assessing the family-level cognitive and management burdens of incarceration, and reflecting on the role of female friendships in sense-making over the life course.
+I hold a PhD in Sociology and an MA in Demographic Analysis from UC Irvine, as well as an Integrated MA in Development Studies from IIT Madras. My dissertation project examined the gender dynamics of platform work through an ethnography of gig workers and platform managers in the care work sector in Mumbai. I identified new forms of gendered algorithmic management, traced how algorithmized recruitment systems gamify women’s access to work, and showed what happens to work when platforms bring socially reproductive labour into the market. Since 2022, I have also been supporting women's gig unions and collectives as a volunteer. 
 
-I am currently looking for jobs that let me apply high-quality research to create real-world impact, and am open to non-traditional teams and organizations. Please get in touch if you have openings!
+Previously, I have worked at Google as a UX Research Intern with the Fitbit team, and for UNICEF and UN Women on tech and development policy consultancy projects. My past projects have focused on adolescent reproductive healthcare, adolescents' mobile phone subcultures, multi-dimensional approaches to poverty, and family-level cognitive burdens of incarceration. I have worked on these and other projects with a variety of collaborators and teams, spanning academics, tech workers, policymakers, poverty practitioners, public health workers, union organizers, community leaders, and social workers, across South Asia, UK, USA, and Sub-Saharan Africa. You can check out some of my projects [here](/#projects). 
 
-I am always looking to discuss and share my research through podcasts, guest lectures, essays, and workshops - please don't hesitate to reach out with requests!
+At the moment, I'm completing multiple writing projects, in which I'm developing participatory frameworks for algorithmic accountability, writing about the histories of women's work in India, and analyzing new forms of human-algorithmic management in platforms. I'm also one of the facilitators of the Labor Tech Research Network - India Collective. 
+
+I am currently actively searching for research positions. Please get in touch if you have openings! 
+
+Consulting: I am available for consulting with civil society, government, and industry groups at the intersection of gender, technology, and work. This can take several forms, such as conducting landscape reviews of key topics, developing resources and workshops, and guiding messaging strategies. 
+
+Writing and speaking: I am looking for opportunities to share my research work and field insights through public-facing writing and speaking - please get in touch if you'd like me to write for your magazine, blog, paper, or join a podcast.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
