@@ -47,13 +47,13 @@ My name is Isha and I am a recent Postdoctoral Fellow from the Digital Civil Soc
 
 Updates:
 
-Affiliation: I am currently developing a new project that will examine upcoming AI infrastructures along India's coastline between 2026-30 - if your organization or department is interested in hosting me as an affiliate researcher, please get in touch (b.isha.ravi at gmail.com). 
+**Affiliation**: I am currently developing a new project that will examine upcoming AI infrastructures along India's coastline between 2026-30 - if your organization or department is interested in hosting me as an affiliate researcher, please get in touch (b.isha.ravi at gmail.com). 
 
-Job Search: I am currently actively searching for research positions. Please get in touch if you have openings! 
+**Job Search**: I am currently actively searching for research positions. Please get in touch if you have openings! 
 
-Consulting: I am available for consulting with civil society, government, and industry groups at the intersection of gender, technology, and work. This can take several forms, such as conducting landscape reviews of key topics, developing resources and workshops, and guiding messaging strategies. 
+**Consulting**: I am available for consulting with civil society, government, and industry groups at the intersection of gender, technology, and work. This can take several forms, such as conducting landscape reviews of key topics, developing resources and workshops, and guiding messaging strategies. 
 
-Writing and speaking: I am looking for opportunities to share my research work and field insights through public-facing writing and speaking - please get in touch if you'd like me to write for your magazine, blog, paper, or join a podcast.
+**Writing and speaking**: I am looking for opportunities to share my research work and field insights through public-facing writing and speaking - please get in touch if you'd like me to write for your magazine, blog, paper, or join a podcast.
 
 ***
 
