@@ -35,7 +35,7 @@ education:
     - course: Integrated MA in Development Studies (minor in Economics)
       institution: Indian Institute of Technology Madras
       year: 2017
-email: ""
+email: "b.isha.ravi@gmail.com"
 superuser: true
 highlight_name: true
 ---
