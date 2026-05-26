@@ -13,16 +13,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: b.isha.ravi at gmail dot com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/isha_bhallamudi
+    link: b.isha.ravi@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=xidE1a8AAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/isha-bhallamudi-3a77b5b1/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/isha_bhallamudi
 organizations: []
 education:
   courses:
